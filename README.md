@@ -36,3 +36,10 @@ ruby -v
 ```
 modify gestures by creating ~/.config/fusuma directory, then creating config.yml
 
+
+
+Adding xclip and setting an alias to pbcopy (like osx)
+
+
+
+
